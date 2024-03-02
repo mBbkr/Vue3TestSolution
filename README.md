@@ -41,4 +41,4 @@ c- Reusability: The component was designed to be reusable in different parts of 
 
 a- Time Spent: 4 hours on the topic, mainly due to challenges related to cursor management to achieve something conclusive regardless of the problem.
 
-b- AI: Yes, mainly for regex :) It's true that I tried, but for the rest, it added more difficulty than anything else. Excellent technical test, by the way!
+b- AI: Yes, mainly for regex :)
